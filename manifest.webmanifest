@@ -1,0 +1,15 @@
+{
+  "name": "収支カレンダー",
+  "short_name": "収支カレンダー",
+  "description": "バイトとギャンブルの収支をカレンダーで管理",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F5F2",
+  "theme_color": "#F4F5F2",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
